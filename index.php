@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Accueil</title>
+  <link rel="stylsheet" href="css/style.css">
 </head>
 <body>
   <h1>Une petite page d'accueil</h1>
