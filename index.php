@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Accueil</title>
-  <link rel="stylsheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 	<?php include "header.php" ?>
@@ -12,6 +12,6 @@
   <p>Celui qui travaille pour un salaire, d'autre part, a peu d'incitations à travailler</p>
   <p>Ils sont des nations dont le nationalisme a été détruit et qui sont ainsi déchirée</p>
   <p>La richesse d'une société peut être assimilée à un établissement d'alimentation ou un magasin offrant un certain nombre de personnes avec des rations quotidiennes satisfaire leurs besoins</p>
-	<p>code généré via <a href="http://www.gaddafipsum.com/">Gaddafipsum.com</a><p>
+	<p>Texte généré via <a href="http://www.gaddafipsum.com/">Gaddafipsum.com</a><p>
 </body>
 </html>
